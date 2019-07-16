@@ -1,2 +1,0 @@
-# whyAsyncPrefersForOverForEachMap
-Created with CodeSandbox
